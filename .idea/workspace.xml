@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f01ca14-2a2a-4153-ae2f-7ba176ab7c8d" name="Changes" comment="" />
+    <list default="true" id="7f01ca14-2a2a-4153-ae2f-7ba176ab7c8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/python.14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -23,6 +30,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1ykoRSd9XcqmchGxjTtWVY0jPT0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +41,7 @@
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.tuple">
+  <component name="RunManager" selected="Python.python.14">
     <configuration name="List" type="PythonConfigurationType" factoryName="Python">
       <module name="python.datatype" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,16 +170,16 @@
     </configuration>
     <list>
       <item itemvalue="Python.List" />
-      <item itemvalue="Python.listdata (1)" />
-      <item itemvalue="Python.listdata" />
-      <item itemvalue="Python.python.14" />
-      <item itemvalue="Python.tuple" />
       <item itemvalue="Python.waste" />
+      <item itemvalue="Python.python.14" />
+      <item itemvalue="Python.listdata" />
+      <item itemvalue="Python.listdata (1)" />
+      <item itemvalue="Python.tuple" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tuple" />
         <item itemvalue="Python.python.14" />
+        <item itemvalue="Python.tuple" />
         <item itemvalue="Python.listdata (1)" />
         <item itemvalue="Python.listdata" />
         <item itemvalue="Python.waste" />

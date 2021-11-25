@@ -1,6 +1,8 @@
-l = [1,2,5,7,4,3,111,10,11,15]
-for i in range(len(l)):
-    for j in range(i+1,len(l)):
-        if l[i]>l[j]:
-            l[i],l[j] = l[j],l[i]
-print(l)
+input = {"name": ["Jan", "Feb", "March" ], "month": [1, 2, 3]}
+# output ={1: "Jan", 2: "Feb", 3: "March"}
+a = input.get('month')
+b = input.get('name')
+print(b)
+
+d= {k:v for k in input.get('month') for v in input.get('name')}
+print(d)
